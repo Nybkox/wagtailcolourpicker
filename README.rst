@@ -8,7 +8,7 @@ Installation
 
 .. code:: bash
 
-   pip install wagtailcolourpicker
+   python setup.py install
 
 Setup
 -----
