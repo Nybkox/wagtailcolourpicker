@@ -6,9 +6,7 @@ A colour picker for Wagtail's DraftJS editor.
 Installation
 ------------
 
-.. code:: bash
-
-   python setup.py install
+Copy wagtailcolourpicker folder.
 
 Setup
 -----
